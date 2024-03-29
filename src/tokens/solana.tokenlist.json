@@ -11865,6 +11865,20 @@
     },
     {
       "chainId": 101,
+      "address": "6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix",
+      "symbol": "CAPY",
+      "name": "MarketCapy",
+      "decimals": 9,
+      "logoURI": "https://bafkreicbki23pidvgmtin7kq6x77kpfd3xv6o4qf6gtektftvoslaocdqu.ipfs.nftstorage.link",
+      "tags": [],
+      "extensions": {
+        "website": "https://mcapysol.xyz/",
+        "twitter": "https://twitter.com/MCapySol/"
+        "telegram": "https://t.me/MCapySol"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "symbol": "stSOL",
       "name": "Lido Staked SOL",
